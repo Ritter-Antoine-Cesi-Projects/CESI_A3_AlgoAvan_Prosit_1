@@ -1,4 +1,4 @@
-# Advanced Algorithmic - Prosit X
+# Advanced Algorithmic - Prosit 1
 
 This is the repository for the Prosit 1 of the Advanced Algorithmic course.
 
